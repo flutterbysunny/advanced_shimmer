@@ -27,9 +27,9 @@ Flutter Platform License
 
 ---
 
-## 🎬 Preview
+## 🎬 Screenshots
 
-![Advanced Shimmer](screenshot/advance shimmer.png)
+![Advanced Shimmer](screenshot/advance_shimmer.png)
 
 ---
 
