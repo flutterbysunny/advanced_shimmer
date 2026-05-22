@@ -4,6 +4,10 @@ A beautiful, customizable Flutter shimmer loading package with multiple shimmer 
 
 Flutter Platform License
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ---
 
 ## ✨ Features
@@ -25,7 +29,7 @@ Flutter Platform License
 
 ## 🎬 Preview
 
-![Advanced Shimmer Preview](screenshot/advance shimmer.png)
+![Advanced Shimmer](screenshot/advance shimmer.png)
 
 ---
 
