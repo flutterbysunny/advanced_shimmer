@@ -9,3 +9,5 @@ export 'src/widgets/shimmer_card.dart';
 export 'src/widgets/shimmer_text.dart';
 export 'src/widgets/shimmer_avatar.dart';
 export 'src/widgets/shimmer_list_tile.dart';
+export 'src/widgets/shimmer_button.dart';
+export 'src/widgets/shimmer_paragraph.dart';

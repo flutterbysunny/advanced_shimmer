@@ -1,25 +1,19 @@
 PODS:
-  - advanced_shimmer (0.0.1):
-    - Flutter
   - Flutter (1.0.0)
   - integration_test (0.0.1):
     - Flutter
 
 DEPENDENCIES:
-  - advanced_shimmer (from `.symlinks/plugins/advanced_shimmer/ios`)
   - Flutter (from `Flutter`)
   - integration_test (from `.symlinks/plugins/integration_test/ios`)
 
 EXTERNAL SOURCES:
-  advanced_shimmer:
-    :path: ".symlinks/plugins/advanced_shimmer/ios"
   Flutter:
     :path: Flutter
   integration_test:
     :path: ".symlinks/plugins/integration_test/ios"
 
 SPEC CHECKSUMS:
-  advanced_shimmer: af9b0898fd438c3f5fa450e389f4d6baf4cd0a51
   Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
   integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
 

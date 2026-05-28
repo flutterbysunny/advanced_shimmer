@@ -1,6 +1,6 @@
 name: advanced_shimmer
 description: A customizable Flutter shimmer loading package with multiple shimmer animation styles and ready-made shimmer widgets.
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/flutterbysunny/advanced_shimmer
 repository: https://github.com/flutterbysunny/advanced_shimmer

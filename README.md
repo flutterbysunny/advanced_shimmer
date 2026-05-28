@@ -50,7 +50,7 @@ Add dependency in `pubspec.yaml`
 
 ```yaml
 dependencies:
-  advanced_shimmer: ^1.0.0
+  advanced_shimmer: ^1.0.1
 ```
 
 Run:

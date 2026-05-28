@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:advanced_shimmer/advanced_shimmer.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
@@ -79,6 +79,22 @@ class MyApp extends StatelessWidget {
               ShimmerListTile(),
               SizedBox(height: 12),
               ShimmerListTile(),
+              SizedBox(height: 12),
+
+              Text(
+                'Button Shimmer',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              ),
+              SizedBox(height: 20),
+              ShimmerButton(),
+              SizedBox(height: 12),
+
+              Text(
+                'Paragraph Shimmer',
+                style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+              ),
+              SizedBox(height: 20),
+              ShimmerParagraph(),
             ],
           ),
         ),

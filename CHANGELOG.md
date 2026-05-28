@@ -1,3 +1,11 @@
+## 1.0.1
+
+- Added ShimmerButton widget
+- Added ShimmerParagraph widget
+- Improved package structure
+- Minor UI improvements
+
+
 ## 1.0.0
 
 - Initial release
